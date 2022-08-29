@@ -1,2 +1,2 @@
-# datbz.github.io
-Database 
+# databz.github.io
+collection of data
