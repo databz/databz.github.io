@@ -1,0 +1,44 @@
+[
+	{
+		"name":"AOL",
+		"smtpserver":"smtp.aol.com",
+		"port": 0,
+		"tlsport": 587,
+		"sslport": 465
+	},
+	{
+		"name":"Yandex",
+		"smtpserver":"smtp.yandex.com",
+		"port": 0,
+		"tlsport": 465,
+		"sslport": 465
+	},
+	{
+		"name":"Zoho",
+		"smtpserver":"smtp.zoho.com",
+		"port": 0,
+		"tlsport": 465,
+		"sslport": 465
+	},
+	{
+		"name":"Sendgrid",
+		"smtpserver":"smtp.sendgrid.net",
+		"port": 0,
+		"tlsport": 587,
+		"sslport": 465
+	},
+	{
+		"name":"Gmail",
+		"smtpserver":"smtp.gmail.com",
+		"port": 0,
+		"tlsport": 587,
+		"sslport": 465,
+	},
+	{
+		"name":"Outlook",
+		"smtpserver":"smtp-mail.outlook.com",
+		"port": 25,
+		"tlsport": 587,
+		"sslport": 0,
+	}
+]
